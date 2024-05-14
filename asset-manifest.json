@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/YTClone/static/css/main.3042c4ca.css",
+    "main.js": "/YTClone/static/js/main.b1c97b1a.js",
+    "static/js/453.1d07c4bd.chunk.js": "/YTClone/static/js/453.1d07c4bd.chunk.js",
+    "index.html": "/YTClone/index.html",
+    "main.3042c4ca.css.map": "/YTClone/static/css/main.3042c4ca.css.map",
+    "main.b1c97b1a.js.map": "/YTClone/static/js/main.b1c97b1a.js.map",
+    "453.1d07c4bd.chunk.js.map": "/YTClone/static/js/453.1d07c4bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3042c4ca.css",
+    "static/js/main.b1c97b1a.js"
+  ]
+}
